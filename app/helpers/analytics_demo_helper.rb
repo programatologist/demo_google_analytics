@@ -1,0 +1,2 @@
+module AnalyticsDemoHelper
+end
